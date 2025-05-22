@@ -1,3 +1,7 @@
-# Kubernetes Bootcamp Intensivo
+<<<<<<< HEAD
+# K8s Bootcamp Intensivo
 
-Este repositório contém o plano completo de 4 semanas com tarefas diárias, comandos e arquivos YAML prontos.
+Este repositório contém o conteúdo do bootcamp prático de Kubernetes.
+
+=======
+>>>>>>> d94d2f99aaf1915c16c921b96f5cf6cc0d8a0fe6
